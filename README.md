@@ -8,5 +8,5 @@
 3. Бас-гитара владение техниками: слеп,двуручный теппинг, игра 3мя пальцами
 4. Владею вокалом(начальный уровень)
 5. Не душнила
-![Macaca.jpg] (img/Macaca.jpg)
+![img/Macaca.jpg](https://github.com/SergeyPetrushin/Kursovaya/blob/main/img:/Macaca.jpg)
 
